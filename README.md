@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)](https://msgbits.com)
+<!--- [![MasterHead](https://www.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)](https://msgbits.com) -->
 
 <h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
 <h3 align="center">Passionate Full Stack MEARN Developer | Crafting Scalable Web Solutions | India</h3>
